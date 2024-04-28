@@ -1,4 +1,5 @@
-#**Product Image Masking and Generation README**#
+**Product Image Masking and Generation README**
+
 This project demonstrates how to mask a product image to have a transparent background and generate a new image based on a prompt using a pretrained model for image inpainting.
 
 Usage
